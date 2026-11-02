@@ -1,0 +1,23 @@
+name: Proponer una mejora / Suggest a feature
+description: Cuéntanos qué problema resolvería la mejora.
+title: "[Idea]: "
+body:
+  - type: markdown
+    attributes:
+      value: "La propuesta será pública. No incluyas información confidencial. / This suggestion will be public."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Qué necesitas resolver / Problem to solve
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Tu propuesta / Suggested solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativas / Alternatives

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spectralabsdev.github.io/velox-mobile/sitemap.xml
