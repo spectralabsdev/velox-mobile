@@ -12,6 +12,7 @@ not included in this repository.
 Public pages:
 
 - https://spectralabsdev.github.io/velox-mobile/
+- https://spectralabsdev.github.io/velox-mobile/purchase/
 - https://spectralabsdev.github.io/velox-mobile/privacy/
 - https://spectralabsdev.github.io/velox-mobile/support/
 - https://spectralabsdev.github.io/velox-mobile/data-deletion/
