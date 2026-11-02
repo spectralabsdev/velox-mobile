@@ -17,7 +17,7 @@ Public pages:
 - https://spectralabsdev.github.io/velox-mobile/support/
 - https://spectralabsdev.github.io/velox-mobile/data-deletion/
 
-Publisher: Giohanna Hervias Ballon. Contact: spectralabsdev@gmail.com.
+Publisher: Giohanna Hervias. Contact: spectralabsdev@gmail.com.
 
 For a bug report, include the app version, operating system, device model and
 steps to reproduce. Public issues must not include passwords, tokens, customer
